@@ -61,3 +61,5 @@ chatgpt helped me to identify an error in my code that was outputting a wrong va
 https://chat.openai.com/c/5e0c348e-4f7d-488a-988d-b9a534c174b2
 it also helped me to write a function to iterate through my lists and find the differences in values in pybank. and understand how to use the index function to relate the correct month to the maximum monthly changes. 
 https://chat.openai.com/c/dea97eba-4657-48e9-b2b5-8af180be1240
+referenced this for the output of  percentage with 3 decimals 
+https://www.askpython.com/python/string/print-format-3f
